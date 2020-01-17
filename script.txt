@@ -1,0 +1,29 @@
+current:
+1.  moto g5+     (G5P, 05.2", 1920x1080, 423.64ppi, 04.53"x2.55")
+2.  pixel 3a XL  (3AX, 06.0", 2160x1080, 402.49ppi, 05.37"x2.68")
+3.  ipod touch 4 (IT4, 03.5", 0960x0640, 329.65ppi, 02.91"x1.94")
+4.  switch       (NNX, 06.2". 1280x0720, 236.87ppi, 05.40"x3.04")
+5.  galaxy s2    (GS2, 04.3", 0800x0480, 216.97ppi, 03.69"x2.21")
+6.  dell xps12   (XPS, 12.0", 1920x1080, 183.58ppi, 10.46"x5.88")
+7.  ipad 2       (IP2, 09.7", 1024x0768, 139.13ppi, 07.76"x5.82")
+
+
+script:
+
+slide in XPS with windows "installing updates, do not turn off your computer"
+
+after 10 or so seconds, slide in 3AX above XPS, 3AX has the loading-dots on it
+
+slide away XPS, loading dots remain on 3AX
+
+set 3AX on table
+
+after a few seconds, I tap on the top of the phone, the loading-dots (now called the DotSnek or DS) freeze in place
+
+DS moves to my finger, i slide my finger around the edge, DS follows
+
+after a while DS steps back and lunges at finger, i pull my hand back in pain
+
+i then switch over to IP2 (with G5P in between the two phones), and am drawing something in procreate
+
+a notification appears on 3AX, DS gets on the notification, and when it closes DS flies over to IP2
