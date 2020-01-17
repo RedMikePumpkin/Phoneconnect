@@ -11,19 +11,10 @@ current:
 script:
 
 slide in XPS with windows "installing updates, do not turn off your computer"
-
 after 10 or so seconds, slide in 3AX above XPS, 3AX has the loading-dots on it
-
-slide away XPS, loading dots remain on 3AX
-
-set 3AX on table
-
+slide away XPS, loading dots remain on 3AX, i set 3AX on table
 after a few seconds, I tap on the top of the phone, the loading-dots (now called the DotSnek or DS) freeze in place
-
 DS moves to my finger, i slide my finger around the edge, DS follows
-
 after a while DS steps back and lunges at finger, i pull my hand back in pain
-
 i then switch over to IP2 (with G5P in between the two phones), and am drawing something in procreate
-
-a notification appears on 3AX, DS gets on the notification, and when it closes DS flies over to IP2
+a notification appears on 3AX, DS gets on the notification, and when it closes DS flies across G5P to IP2
